@@ -1,0 +1,849 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="Alan_Turing" label="Alan_Turing" />
+      <node id="Game_piece_(board_game)" label="Game_piece_(board_game)" />
+      <node id="Wilhelm_Ackermann" label="Wilhelm_Ackermann" />
+      <node id="ex.php?title=Omega_test&amp;action=edit&amp;redlink=1" label="ex.php?title=Omega_test&amp;action=edit&amp;redlink=1" />
+      <node id="Enigma_rotor_details" label="Enigma_rotor_details" />
+      <node id="Algorithm" label="Algorithm" />
+      <node id="Todd_Newton" label="Todd_Newton" />
+      <node id="Baronet" label="Baronet" />
+      <node id="E-petition" label="E-petition" />
+      <node id="Computing_Machine_Laboratory" label="Computing_Machine_Laboratory" />
+      <node id="Atlantic_City" label="Atlantic_City" />
+      <node id="Boolean_satisfiability_problem" label="Boolean_satisfiability_problem" />
+      <node id="Paul_Nurse" label="Paul_Nurse" />
+      <node id="Bell_Labs" label="Bell_Labs" />
+      <node id="List_of_presidents_of_the_Royal_Society" label="List_of_presidents_of_the_Royal_Society" />
+      <node id="Monopoly:_The_Mega_Edition" label="Monopoly:_The_Mega_Edition" />
+      <node id="German_language" label="German_language" />
+      <node id="Calculating_machine" label="Calculating_machine" />
+      <node id="Joan_Clarke" label="Joan_Clarke" />
+      <node id="Axiom" label="Axiom" />
+      <node id="Oracle_machine" label="Oracle_machine" />
+      <node id="Debit_cards" label="Debit_cards" />
+      <node id="British_India" label="British_India" />
+      <node id="Yuri_Matiyasevich" label="Yuri_Matiyasevich" />
+      <node id="Reaction-diffusion_system" label="Reaction-diffusion_system" />
+      <node id="Hut_8" label="Hut_8" />
+      <node id="Monopoly_Junior" label="Monopoly_Junior" />
+      <node id="Theoretical_computer_science" label="Theoretical_computer_science" />
+      <node id="Billy_Gardell" label="Billy_Gardell" />
+      <node id="King%27s_College,_Cambridge" label="King%27s_College,_Cambridge" />
+      <node id="Pennsylvania-Reading_Seashore_Lines" label="Pennsylvania-Reading_Seashore_Lines" />
+      <node id="Entscheidungsproblem" label="Entscheidungsproblem" />
+      <node id="Chemical_castration" label="Chemical_castration" />
+      <node id="Progressive_Field" label="Progressive_Field" />
+      <node id="Secure_voice" label="Secure_voice" />
+      <node id="Classics" label="Classics" />
+      <node id="English_Electric_DEUCE" label="English_Electric_DEUCE" />
+      <node id="Truth_value" label="Truth_value" />
+      <node id="Hastings" label="Hastings" />
+      <node id="Itbox" label="Itbox" />
+      <node id="Martin_Rees,_Baron_Rees_of_Ludlow" label="Martin_Rees,_Baron_Rees_of_Ludlow" />
+      <node id="Phyllotaxis" label="Phyllotaxis" />
+      <node id="Electromechanics" label="Electromechanics" />
+      <node id="NSA_Hall_of_Honor" label="NSA_Hall_of_Honor" />
+      <node id="Guinness_Book_of_World_Records" label="Guinness_Book_of_World_Records" />
+      <node id="Presburger_arithmetic" label="Presburger_arithmetic" />
+      <node id="Board_game" label="Board_game" />
+      <node id="Committal_procedure" label="Committal_procedure" />
+      <node id="Neiman_Marcus" label="Neiman_Marcus" />
+      <node id="Bankruptcy" label="Bankruptcy" />
+      <node id="Mathematical_and_theoretical_biology" label="Mathematical_and_theoretical_biology" />
+      <node id="Internet_activism" label="Internet_activism" />
+      <node id="Deed" label="Deed" />
+      <node id="Lionsgate" label="Lionsgate" />
+      <node id="Chris_Grayling" label="Chris_Grayling" />
+      <node id="Effectively_calculable" label="Effectively_calculable" />
+      <node id="Secret_Intelligence_Service" label="Secret_Intelligence_Service" />
+      <node id="Legacy_Walk" label="Legacy_Walk" />
+      <node id="The_Lesbian_and_Gay_Foundation_in_Manchester" label="The_Lesbian_and_Gay_Foundation_in_Manchester" />
+      <node id="Elizabeth_II" label="Elizabeth_II" />
+      <node id="Partial_differential_equations" label="Partial_differential_equations" />
+      <node id="Southampton" label="Southampton" />
+      <node id="Bally%27s_Las_Vegas" label="Bally%27s_Las_Vegas" />
+      <node id="Policing_and_Crime_Act_2017" label="Policing_and_Crime_Act_2017" />
+      <node id="Colossus_computer" label="Colossus_computer" />
+      <node id="Public_domain" label="Public_domain" />
+      <node id="Theory_of_computation" label="Theory_of_computation" />
+      <node id="William_Newman_(computer_scientist)" label="William_Newman_(computer_scientist)" />
+      <node id="British_House_of_Lords" label="British_House_of_Lords" />
+      <node id="The_Hub_(TV_network)" label="The_Hub_(TV_network)" />
+      <node id="ITA2" label="ITA2" />
+      <node id="County_Longford" label="County_Longford" />
+      <node id="Plinth" label="Plinth" />
+      <node id="Gottfried_Leibniz" label="Gottfried_Leibniz" />
+      <node id="St_Leonards-on-Sea" label="St_Leonards-on-Sea" />
+      <node id="Order_of_the_British_Empire" label="Order_of_the_British_Empire" />
+      <node id="First_Draft_of_a_Report_on_the_EDVAC" label="First_Draft_of_a_Report_on_the_EDVAC" />
+      <node id="I.J._Good" label="I.J._Good" />
+      <node id="David_Cameron" label="David_Cameron" />
+      <node id="Blue_plaque" label="Blue_plaque" />
+      <node id="University_of_Surrey" label="University_of_Surrey" />
+      <node id="Lorenz_cipher" label="Lorenz_cipher" />
+      <node id="Real_closed_field" label="Real_closed_field" />
+      <node id="Charm_bracelet" label="Charm_bracelet" />
+      <node id="Jade_Esteban_Estrada" label="Jade_Esteban_Estrada" />
+      <node id="Automatic_Computing_Engine" label="Automatic_Computing_Engine" />
+      <node id="Ordinal_logic" label="Ordinal_logic" />
+      <node id="Baltimore_and_Ohio_Railroad" label="Baltimore_and_Ohio_Railroad" />
+      <node id="John_W._Mills" label="John_W._Mills" />
+      <node id="Kurt_G%C3%B6del" label="Kurt_G%C3%B6del" />
+      <node id="W_H_Smith" label="W_H_Smith" />
+      <node id="Science_Museum_(London)" label="Science_Museum_(London)" />
+      <node id="LU_decomposition" label="LU_decomposition" />
+      <node id="Sackville_Gardens" label="Sackville_Gardens" />
+      <node id="Church%E2%80%93Turing_thesis" label="Church%E2%80%93Turing_thesis" />
+      <node id="Generic_trademark" label="Generic_trademark" />
+      <node id="Slate" label="Slate" />
+      <node id="DNA" label="DNA" />
+      <node id="Train_depot" label="Train_depot" />
+      <node id="Chhatrapur" label="Chhatrapur" />
+      <node id="Shore_Fast_Line" label="Shore_Fast_Line" />
+      <node id="My_Little_Pony:_Friendship_Is_Magic" label="My_Little_Pony:_Friendship_Is_Magic" />
+      <node id="Ioan_James" label="Ioan_James" />
+      <node id="Banburismus" label="Banburismus" />
+      <node id="Government_Communications_Headquarters" label="Government_Communications_Headquarters" />
+      <node id="Heath_Robinson_(codebreaking_machine)" label="Heath_Robinson_(codebreaking_machine)" />
+      <node id="Cyanide_poisoning" label="Cyanide_poisoning" />
+      <node id="Program_verification" label="Program_verification" />
+      <node id="The_Guardian" label="The_Guardian" />
+      <node id="Action_Man" label="Action_Man" />
+      <node id="Princeton_University" label="Princeton_University" />
+      <node id="Stephen_Cole_Kleene" label="Stephen_Cole_Kleene" />
+      <node id="Her_Majesty%27s_Government_Communications_Centre" label="Her_Majesty%27s_Government_Communications_Centre" />
+      <node id="Central_Railroad_of_New_Jersey" label="Central_Railroad_of_New_Jersey" />
+      <node id="Marven_Gardens" label="Marven_Gardens" />
+      <node id="Formal_language" label="Formal_language" />
+      <node id="Heinz_Billing" label="Heinz_Billing" />
+      <node id="David_Hilbert" label="David_Hilbert" />
+      <node id="Oestrogen" label="Oestrogen" />
+      <node id="Frank_Beddor" label="Frank_Beddor" />
+      <node id="Ferranti_Mark_1" label="Ferranti_Mark_1" />
+      <node id="SIGSALY" label="SIGSALY" />
+      <node id="Manchester_Withington_(UK_Parliament_constituency)" label="Manchester_Withington_(UK_Parliament_constituency)" />
+      <node id="Paul_Bernays" label="Paul_Bernays" />
+      <node id="Amstrad" label="Amstrad" />
+      <node id="Walt_Disney" label="Walt_Disney" />
+      <node id="A1_road_(Great_Britain)" label="A1_road_(Great_Britain)" />
+      <node id="Materialism" label="Materialism" />
+      <node id="Alan_Garner" label="Alan_Garner" />
+      <node id="Snow_White_and_the_Seven_Dwarfs_(1937_film)" label="Snow_White_and_the_Seven_Dwarfs_(1937_film)" />
+      <node id="Woking_Crematorium" label="Woking_Crematorium" />
+      <node id="Monopoly_(game)" label="Monopoly_(game)" />
+      <node id="Post-mortem" label="Post-mortem" />
+      <node id="Pardon" label="Pardon" />
+      <node id="Milton_Keynes" label="Milton_Keynes" />
+      <node id="Chessex" label="Chessex" />
+      <node id="United_States_Court_of_Appeals_for_the_9th_Circuit" label="United_States_Court_of_Appeals_for_the_9th_Circuit" />
+      <node id="Texas_Stadium" label="Texas_Stadium" />
+      <node id="Game_Boy" label="Game_Boy" />
+      <node id="Hastings_Ismay,_1st_Baron_Ismay" label="Hastings_Ismay,_1st_Baron_Ismay" />
+      <node id="First-order_logic" label="First-order_logic" />
+      <node id="Andrew_Hodges" label="Andrew_Hodges" />
+      <node id="Las_Vegas" label="Las_Vegas" />
+      <node id="Get_Out_of_Jail_Free_card" label="Get_Out_of_Jail_Free_card" />
+      <node id="Max_Planck_Institute_for_Physics" label="Max_Planck_Institute_for_Physics" />
+      <node id="General_purpose_computer" label="General_purpose_computer" />
+      <node id="Cryptanalysis_of_the_Enigma" label="Cryptanalysis_of_the_Enigma" />
+      <node id="Madras_and_Southern_Mahratta_Railway" label="Madras_and_Southern_Mahratta_Railway" />
+      <node id="Crib_(cryptanalysis)" label="Crib_(cryptanalysis)" />
+      <node id="Peter_Tatchell" label="Peter_Tatchell" />
+      <node id="Multiple_discovery" label="Multiple_discovery" />
+      <node id="Lambda_calculus" label="Lambda_calculus" />
+      <node id="Family-friendliness" label="Family-friendliness" />
+      <node id="Association_for_Computing_Machinery" label="Association_for_Computing_Machinery" />
+      <node id="Alan_Turing_law" label="Alan_Turing_law" />
+      <node id="Halting_problem" label="Halting_problem" />
+      <node id="Bengal_Army" label="Bengal_Army" />
+      <node id="United_States_Naval_Computing_Machine_Laboratory" label="United_States_Naval_Computing_Machine_Laboratory" />
+      <node id="Syndication_(television)" label="Syndication_(television)" />
+      <node id="Zachary_Levi" label="Zachary_Levi" />
+      <node id="Charles_Darrow" label="Charles_Darrow" />
+      <node id="Mike_Reilly_(television_personality)" label="Mike_Reilly_(television_personality)" />
+      <node id="John_Graham-Cumming" label="John_Graham-Cumming" />
+      <node id="Coaching_inn" label="Coaching_inn" />
+      <node id="Jack_Copeland" label="Jack_Copeland" />
+      <node id="Computability_in_Europe" label="Computability_in_Europe" />
+      <node id="County_Tipperary" label="County_Tipperary" />
+      <node id="Manchester_computers" label="Manchester_computers" />
+      <node id="Gynaecomastia" label="Gynaecomastia" />
+      <node id="Von_Neumann" label="Von_Neumann" />
+      <node id="Manchester" label="Manchester" />
+      <node id="Merv_Griffin" label="Merv_Griffin" />
+      <node id="Family_Game_Night_(TV_series)" label="Family_Game_Night_(TV_series)" />
+      <node id="NATAS" label="NATAS" />
+      <node id="Saint_Vincent_and_the_Grenadines" label="Saint_Vincent_and_the_Grenadines" />
+      <node id="Locomotive" label="Locomotive" />
+      <node id="Computing_Machinery_and_Intelligence" label="Computing_Machinery_and_Intelligence" />
+      <node id="Plaintext" label="Plaintext" />
+      <node id="Hanslope_Park" label="Hanslope_Park" />
+      <node id="Map" label="Map" />
+      <node id="Hungry_Hungry_Hippos" label="Hungry_Hungry_Hippos" />
+      <node id="G%C3%B6del_numbering" label="G%C3%B6del_numbering" />
+      <node id="Monopoly_Millionaires%27_Club_(TV_series)" label="Monopoly_Millionaires%27_Club_(TV_series)" />
+      <node id="Gamesys" label="Gamesys" />
+      <node id="Reader_(academic_rank)" label="Reader_(academic_rank)" />
+      <node id="Slot_machine" label="Slot_machine" />
+      <node id="Cryptanalysis" label="Cryptanalysis" />
+      <node id="The_Chemical_Basis_of_Morphogenesis" label="The_Chemical_Basis_of_Morphogenesis" />
+      <node id="Newton%27s_laws_of_motion" label="Newton%27s_laws_of_motion" />
+      <node id="Universal_Turing_machine" label="Universal_Turing_machine" />
+      <node id="Polish_Cipher_Bureau" label="Polish_Cipher_Bureau" />
+      <node id="Turing_test" label="Turing_test" />
+      <node id="Asa_Briggs" label="Asa_Briggs" />
+      <node id="Sorry!_(game)" label="Sorry!_(game)" />
+      <node id="Help:IPA_for_German" label="Help:IPA_for_German" />
+      <node id="Stuart_Milner-Barry" label="Stuart_Milner-Barry" />
+      <node id="Battle_of_the_Atlantic" label="Battle_of_the_Atlantic" />
+      <node id="Bletchley_Park" label="Bletchley_Park" />
+      <node id="Diplomacy_(game)" label="Diplomacy_(game)" />
+      <node id="The_Christian_Science_Monitor" label="The_Christian_Science_Monitor" />
+      <node id="Gordon_Brown" label="Gordon_Brown" />
+      <node id="Electroplating" label="Electroplating" />
+      <node id="Dilly_Knox" label="Dilly_Knox" />
+      <node id="Game_Boy_Advance" label="Game_Boy_Advance" />
+      <node id="House_rules" label="House_rules" />
+      <node id="The_Angel,_Islington" label="The_Angel,_Islington" />
+      <node id="100_Greatest_Britons" label="100_Greatest_Britons" />
+      <node id="University_of_Oxford" label="University_of_Oxford" />
+      <node id="Impotence" label="Impotence" />
+      <node id="Fellow" label="Fellow" />
+      <node id="Computable_function" label="Computable_function" />
+      <node id="Protestantism_in_Ireland" label="Protestantism_in_Ireland" />
+      <node id="Super_Jeopardy!" label="Super_Jeopardy!" />
+      <node id="Stored-program_computer" label="Stored-program_computer" />
+      <node id="Computer_science" label="Computer_science" />
+      <node id="Sidney_Frank" label="Sidney_Frank" />
+      <node id="ACE_(computer)" label="ACE_(computer)" />
+      <node id="London_2012" label="London_2012" />
+      <node id="WMS_Gaming" label="WMS_Gaming" />
+      <node id="Mortgage_law" label="Mortgage_law" />
+      <node id="Pamela_Pettler" label="Pamela_Pettler" />
+      <node id="I%27ve_Been_Working_on_the_Railroad" label="I%27ve_Been_Working_on_the_Railroad" />
+      <node id="International_Game_Technology" label="International_Game_Technology" />
+      <node id="Ralph_Anspach" label="Ralph_Anspach" />
+      <node id="Wilmslow_Road" label="Wilmslow_Road" />
+      <node id="Universal_Pictures" label="Universal_Pictures" />
+      <node id="Von_Neumann_architecture" label="Von_Neumann_architecture" />
+      <node id="De_La_Salle_University" label="De_La_Salle_University" />
+      <node id="GLBT_pride" label="GLBT_pride" />
+      <node id="Anti-Monopoly" label="Anti-Monopoly" />
+      <node id="A6010_road" label="A6010_road" />
+      <node id="Cryptanalysis_of_the_Lorenz_cipher" label="Cryptanalysis_of_the_Lorenz_cipher" />
+      <node id="DPLL_algorithm" label="DPLL_algorithm" />
+      <node id="Enigma_machine" label="Enigma_machine" />
+      <node id="Systems_of_Logic_Based_on_Ordinals" label="Systems_of_Logic_Based_on_Ordinals" />
+      <node id="Do_not_pass_Go._Do_not_collect_$200." label="Do_not_pass_Go._Do_not_collect_$200." />
+      <node id="Colonel_Hugh_O%27Donel_Alexander" label="Colonel_Hugh_O%27Donel_Alexander" />
+      <node id="Maida_Vale" label="Maida_Vale" />
+      <node id="Official_Secrets_Act" label="Official_Secrets_Act" />
+      <node id="Atlantic_City,_New_Jersey" label="Atlantic_City,_New_Jersey" />
+      <node id="G%C3%B6del%27s_incompleteness_theorem" label="G%C3%B6del%27s_incompleteness_theorem" />
+      <node id="Indian_Civil_Service" label="Indian_Civil_Service" />
+      <node id="Absolute_Genius_with_Dick_and_Dom" label="Absolute_Genius_with_Dick_and_Dom" />
+      <node id="Bendix_G-15" label="Bendix_G-15" />
+      <node id="Advocacy_group" label="Advocacy_group" />
+      <node id="Income_Tax" label="Income_Tax" />
+      <node id="Matthew_McNally" label="Matthew_McNally" />
+      <node id="Hilbert%27s_tenth_problem" label="Hilbert%27s_tenth_problem" />
+      <node id="County_Clare" label="County_Clare" />
+      <node id="Morphogenesis" label="Morphogenesis" />
+      <node id="Alonzo_Church" label="Alonzo_Church" />
+      <node id="S._Barry_Cooper" label="S._Barry_Cooper" />
+      <node id="Plausible_deniability" label="Plausible_deniability" />
+      <node id="Asperger_syndrome" label="Asperger_syndrome" />
+      <node id="Diethylstilbestrol" label="Diethylstilbestrol" />
+      <node id="National_Heritage_Memorial_Fund" label="National_Heritage_Memorial_Fund" />
+      <node id="Decision_problem" label="Decision_problem" />
+      <node id="Time_100:_The_Most_Important_People_of_the_Century" label="Time_100:_The_Most_Important_People_of_the_Century" />
+      <node id="Victoria_University_of_Manchester" label="Victoria_University_of_Manchester" />
+      <node id="Peano_axioms" label="Peano_axioms" />
+      <node id="Grossinger%27s_Resort" label="Grossinger%27s_Resort" />
+      <node id="National_Physical_Laboratory,_UK" label="National_Physical_Laboratory,_UK" />
+      <node id="Ban_(unit)" label="Ban_(unit)" />
+      <node id="Mathematics" label="Mathematics" />
+      <node id="Fibonacci_numbers" label="Fibonacci_numbers" />
+      <node id="Hormone" label="Hormone" />
+      <node id="Sega_Genesis" label="Sega_Genesis" />
+      <node id="Natural_number" label="Natural_number" />
+      <node id="Bombe" label="Bombe" />
+      <node id="Renting" label="Renting" />
+      <node id="Alan_Turing_Year" label="Alan_Turing_Year" />
+      <node id="Inquests_in_England_and_Wales" label="Inquests_in_England_and_Wales" />
+      <node id="John_R._Womersley" label="John_R._Womersley" />
+      <node id="Stephen_Kettle" label="Stephen_Kettle" />
+      <node id="ESPN360" label="ESPN360" />
+      <node id="Libido" label="Libido" />
+      <node id="Time_(magazine)" label="Time_(magazine)" />
+      <node id="Brian_Goldner" label="Brian_Goldner" />
+      <node id="Tarski%E2%80%93Seidenberg_theorem" label="Tarski%E2%80%93Seidenberg_theorem" />
+      <node id="Mathematical_biology" label="Mathematical_biology" />
+      <node id="Chance_and_Community_Chest_cards" label="Chance_and_Community_Chest_cards" />
+      <node id="Playing_card" label="Playing_card" />
+      <node id="Ludwig_Wittgenstein" label="Ludwig_Wittgenstein" />
+      <node id="Wired_magazine" label="Wired_magazine" />
+      <node id="FAO_Schwarz" label="FAO_Schwarz" />
+      <node id="Madurai" label="Madurai" />
+      <node id="Gross_indecency_(criminal_offence)" label="Gross_indecency_(criminal_offence)" />
+      <node id="Emmett/Furla/Oasis_Films" label="Emmett/Furla/Oasis_Films" />
+      <node id="Apple_Inc." label="Apple_Inc." />
+      <node id="Pewter" label="Pewter" />
+      <node id="Wilmslow" label="Wilmslow" />
+      <node id="1926_United_Kingdom_general_strike" label="1926_United_Kingdom_general_strike" />
+      <node id="D._G._Champernowne" label="D._G._Champernowne" />
+      <node id="Turingery" label="Turingery" />
+      <node id="Turing_Award" label="Turing_Award" />
+      <node id="William_Pugh" label="William_Pugh" />
+      <node id="Model_of_computation" label="Model_of_computation" />
+      <node id="Sherborne" label="Sherborne" />
+      <node id="Dancehouse" label="Dancehouse" />
+      <node id="Jarl_Waldemar_Lindeberg" label="Jarl_Waldemar_Lindeberg" />
+      <node id="Waddingtons" label="Waddingtons" />
+      <node id="English_Heritage" label="English_Heritage" />
+      <node id="Sherborne_School" label="Sherborne_School" />
+      <node id="Philippines" label="Philippines" />
+      <node id="IPad" label="IPad" />
+      <node id="Mike_%26_Molly" label="Mike_%26_Molly" />
+      <node id="Anglo-Irish" label="Anglo-Irish" />
+      <node id="Bomba_(cryptography)" label="Bomba_(cryptography)" />
+      <node id="The_National_Archives_(United_Kingdom)" label="The_National_Archives_(United_Kingdom)" />
+      <node id="Central_limit_theorem" label="Central_limit_theorem" />
+      <node id="Chemical_reaction" label="Chemical_reaction" />
+      <node id="2012_Summer_Olympics_torch_relay" label="2012_Summer_Olympics_torch_relay" />
+      <node id="Under_the_Boardwalk:_The_MONOPOLY_Story" label="Under_the_Boardwalk:_The_MONOPOLY_Story" />
+      <node id="Computer_Science" label="Computer_Science" />
+      <node id="Winning_Moves" label="Winning_Moves" />
+      <node id="The_Co-operative_Bank" label="The_Co-operative_Bank" />
+      <node id="Parker_Brothers" label="Parker_Brothers" />
+      <node id="British_Society_for_the_History_of_Mathematics" label="British_Society_for_the_History_of_Mathematics" />
+      <node id="G%C3%B6del%27s_completeness_theorem" label="G%C3%B6del%27s_completeness_theorem" />
+      <node id="Wales" label="Wales" />
+      <node id="Officer_of_the_Order_of_the_British_Empire" label="Officer_of_the_Order_of_the_British_Empire" />
+      <node id="Rotor_machine" label="Rotor_machine" />
+      <node id="Gentry" label="Gentry" />
+      <node id="Secure_speech" label="Secure_speech" />
+      <node id="David_Leavitt" label="David_Leavitt" />
+      <node id="Lorenz_SZ_40/42" label="Lorenz_SZ_40/42" />
+      <node id="Mr._Monopoly" label="Mr._Monopoly" />
+      <node id="Colonnade_Hotel_(London)" label="Colonnade_Hotel_(London)" />
+      <node id="Fellow_of_the_Royal_Society" label="Fellow_of_the_Royal_Society" />
+      <node id="Canal_Street,_Manchester" label="Canal_Street,_Manchester" />
+      <node id="G%C3%B6ttingen" label="G%C3%B6ttingen" />
+      <node id="WagerWorks" label="WagerWorks" />
+      <node id="Mind_(journal)" label="Mind_(journal)" />
+      <node id="Computer_scientist" label="Computer_scientist" />
+      <node id="ex.php?title=Cooper%27s_algorithm&amp;action=edit&amp;redlink=1" label="ex.php?title=Cooper%27s_algorithm&amp;action=edit&amp;redlink=1" />
+      <node id="Belousov%E2%80%93Zhabotinsky_reaction" label="Belousov%E2%80%93Zhabotinsky_reaction" />
+      <node id="O%27Hare_International_Airport" label="O%27Hare_International_Airport" />
+      <node id="Los_Angeles_International_Airport" label="Los_Angeles_International_Airport" />
+      <node id="Hampton,_London" label="Hampton,_London" />
+      <node id="Amnesty_law" label="Amnesty_law" />
+      <node id="Bovine_tuberculosis" label="Bovine_tuberculosis" />
+      <node id="CAPTCHA" label="CAPTCHA" />
+      <node id="Enigma_code" label="Enigma_code" />
+      <node id="Second_World_War" label="Second_World_War" />
+      <node id="Cylindrical_algebraic_decomposition" label="Cylindrical_algebraic_decomposition" />
+      <node id="Steve_Jobs" label="Steve_Jobs" />
+      <node id="Atheism" label="Atheism" />
+      <node id="Labouchere_Amendment" label="Labouchere_Amendment" />
+      <node id="George_VI" label="George_VI" />
+      <node id="Super_Nintendo_Entertainment_System" label="Super_Nintendo_Entertainment_System" />
+      <node id="Sackville_Park" label="Sackville_Park" />
+      <node id="Max_Newman" label="Max_Newman" />
+      <node id="Alan_Turing_Memorial" label="Alan_Turing_Memorial" />
+      <node id="Winston_Churchill" label="Winston_Churchill" />
+      <node id="Moses_Sch%C3%B6nfinkel" label="Moses_Sch%C3%B6nfinkel" />
+      <node id="Guildford" label="Guildford" />
+      <node id="Warsaw" label="Warsaw" />
+      <node id="Chess" label="Chess" />
+      <node id="Gordon_Welchman" label="Gordon_Welchman" />
+      <node id="The_Mayfair_Set" label="The_Mayfair_Set" />
+      <node id="Royal_Mail" label="Royal_Mail" />
+      <node id="Cipher" label="Cipher" />
+      <node id="Pilot_ACE" label="Pilot_ACE" />
+      <node id="Salvatore_Adamo" label="Salvatore_Adamo" />
+      <node id="Ghettopoly" label="Ghettopoly" />
+      <node id="Reading_Company" label="Reading_Company" />
+      <node id="John_Leech_(politician)" label="John_Leech_(politician)" />
+      <node id="Conel_Hugh_O%27Donel_Alexander" label="Conel_Hugh_O%27Donel_Alexander" />
+      <node id="Tommy_Flowers" label="Tommy_Flowers" />
+      <node id="Andrew_Niccol" label="Andrew_Niccol" />
+      <node id="Briefcase" label="Briefcase" />
+      <node id="Netherlands" label="Netherlands" />
+      <node id="Rensselaer,_New_York" label="Rensselaer,_New_York" />
+      <node id="Astronomer_Royal" label="Astronomer_Royal" />
+      <node id="Hasbro" label="Hasbro" />
+      <node id="ex.php?title=Anaheim_International_Film_Festival&amp;action=edit&amp;redlink=1" label="ex.php?title=Anaheim_International_Film_Festival&amp;action=edit&amp;redlink=1" />
+      <node id="Snake_eyes" label="Snake_eyes" />
+      <node id="List_of_IEEE_milestones" label="List_of_IEEE_milestones" />
+      <node id="Commodore_64" label="Commodore_64" />
+      <node id="Stephen_Hawking" label="Stephen_Hawking" />
+      <node id="School_of_Mathematics,_University_of_Manchester" label="School_of_Mathematics,_University_of_Manchester" />
+      <node id="John_Sharkey,_Baron_Sharkey" label="John_Sharkey,_Baron_Sharkey" />
+      <node id="Satisfiability_modulo_theories" label="Satisfiability_modulo_theories" />
+      <node id="Pepco_Holdings" label="Pepco_Holdings" />
+      <node id="Rio_All_Suite_Hotel_and_Casino" label="Rio_All_Suite_Hotel_and_Casino" />
+      <node id="Turing_machine" label="Turing_machine" />
+      <node id="The_Daily_Telegraph" label="The_Daily_Telegraph" />
+      <node id="Elizabeth_Magie" label="Elizabeth_Magie" />
+      <node id="List_of_Fellows_of_the_Royal_Society_elected_in_1951" label="List_of_Fellows_of_the_Royal_Society_elected_in_1951" />
+      <node id="Luxury_Tax" label="Luxury_Tax" />
+      <node id="Kevin_Tostado" label="Kevin_Tostado" />
+      <node id="James_Madison" label="James_Madison" />
+      <node id="British_Army" label="British_Army" />
+      <node id="Hartsfield%E2%80%93Jackson_Atlanta_International_Airport" label="Hartsfield%E2%80%93Jackson_Atlanta_International_Airport" />
+      <node id="Abraham_Wald" label="Abraham_Wald" />
+      <node id="Chemical_clock" label="Chemical_clock" />
+      <node id="Programming_language" label="Programming_language" />
+      <node id="Market_town" label="Market_town" />
+      <node id="Nintendo_Entertainment_System" label="Nintendo_Entertainment_System" />
+      <node id="Diophantine_equation" label="Diophantine_equation" />
+      <node id="British_House_of_Commons" label="British_House_of_Commons" />
+      <node id="Stephen_Fry" label="Stephen_Fry" />
+      <node id="Licensed_and_localized_editions_of_Monopoly" label="Licensed_and_localized_editions_of_Monopoly" />
+      <node id="Turing_baronets" label="Turing_baronets" />
+      <node id="Princeton_Alumni_Weekly" label="Princeton_Alumni_Weekly" />
+      <node id="Criminal_Law_Amendment_Act_1885" label="Criminal_Law_Amendment_Act_1885" />
+      <node id="Conflict_(board_game)" label="Conflict_(board_game)" />
+      <node id="Georgism" label="Georgism" />
+      <node id="Signals_intelligence" label="Signals_intelligence" />
+      <node id="The_Landlord%27s_Game" label="The_Landlord%27s_Game" />
+      <node id="Trademark_infringement" label="Trademark_infringement" />
+      <node id="Simplex_algorithm" label="Simplex_algorithm" />
+      <node id="Sequential_analysis" label="Sequential_analysis" />
+      <node id="Manchester_City_Council" label="Manchester_City_Council" />
+      <node id="BoardGameGeek" label="BoardGameGeek" />
+      <node id="Royal_prerogative_of_mercy" label="Royal_prerogative_of_mercy" />
+      <node id="Jean_Barker,_Baroness_Trumpington" label="Jean_Barker,_Baroness_Trumpington" />
+      <node id="Ronald_Lewin" label="Ronald_Lewin" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Alan_Turing" target="University_of_Oxford" />
+      <edge id="1" source="Alan_Turing" target="Enigma_rotor_details" />
+      <edge id="2" source="Alan_Turing" target="Impotence" />
+      <edge id="3" source="Alan_Turing" target="Fellow" />
+      <edge id="4" source="Alan_Turing" target="Canal_Street,_Manchester" />
+      <edge id="5" source="Alan_Turing" target="Protestantism_in_Ireland" />
+      <edge id="6" source="Alan_Turing" target="Stored-program_computer" />
+      <edge id="7" source="Alan_Turing" target="Her_Majesty%27s_Government_Communications_Centre" />
+      <edge id="8" source="Alan_Turing" target="Baronet" />
+      <edge id="9" source="Alan_Turing" target="ACE_(computer)" />
+      <edge id="10" source="Alan_Turing" target="Science_Museum_(London)" />
+      <edge id="11" source="Alan_Turing" target="Computing_Machine_Laboratory" />
+      <edge id="12" source="Alan_Turing" target="London_2012" />
+      <edge id="13" source="Alan_Turing" target="Paul_Nurse" />
+      <edge id="14" source="Alan_Turing" target="Bell_Labs" />
+      <edge id="15" source="Alan_Turing" target="Wilmslow_Road" />
+      <edge id="16" source="Alan_Turing" target="Secure_speech" />
+      <edge id="17" source="Alan_Turing" target="Joan_Clarke" />
+      <edge id="18" source="Alan_Turing" target="Oracle_machine" />
+      <edge id="19" source="Alan_Turing" target="School_of_Mathematics,_University_of_Manchester" />
+      <edge id="20" source="Alan_Turing" target="British_India" />
+      <edge id="21" source="Alan_Turing" target="Von_Neumann_architecture" />
+      <edge id="22" source="Alan_Turing" target="De_La_Salle_University" />
+      <edge id="23" source="Alan_Turing" target="Reaction-diffusion_system" />
+      <edge id="24" source="Alan_Turing" target="GLBT_pride" />
+      <edge id="25" source="Alan_Turing" target="Hut_8" />
+      <edge id="26" source="Alan_Turing" target="A6010_road" />
+      <edge id="27" source="Alan_Turing" target="Cryptanalysis_of_the_Lorenz_cipher" />
+      <edge id="28" source="Alan_Turing" target="Theoretical_computer_science" />
+      <edge id="29" source="Alan_Turing" target="Secure_voice" />
+      <edge id="30" source="Alan_Turing" target="Dancehouse" />
+      <edge id="31" source="Alan_Turing" target="Chemical_castration" />
+      <edge id="32" source="Alan_Turing" target="Systems_of_Logic_Based_on_Ordinals" />
+      <edge id="33" source="Alan_Turing" target="Polish_Cipher_Bureau" />
+      <edge id="34" source="Alan_Turing" target="Classics" />
+      <edge id="35" source="Alan_Turing" target="Colonel_Hugh_O%27Donel_Alexander" />
+      <edge id="36" source="Alan_Turing" target="Maida_Vale" />
+      <edge id="37" source="Alan_Turing" target="Hastings" />
+      <edge id="38" source="Alan_Turing" target="Indian_Civil_Service" />
+      <edge id="39" source="Alan_Turing" target="Crib_(cryptanalysis)" />
+      <edge id="40" source="Alan_Turing" target="John_R._Womersley" />
+      <edge id="41" source="Alan_Turing" target="Electromechanics" />
+      <edge id="42" source="Alan_Turing" target="NSA_Hall_of_Honor" />
+      <edge id="43" source="Alan_Turing" target="Absolute_Genius_with_Dick_and_Dom" />
+      <edge id="44" source="Alan_Turing" target="Bendix_G-15" />
+      <edge id="45" source="Alan_Turing" target="Gordon_Brown" />
+      <edge id="46" source="Alan_Turing" target="Peter_Tatchell" />
+      <edge id="47" source="Alan_Turing" target="Committal_procedure" />
+      <edge id="48" source="Alan_Turing" target="E-petition" />
+      <edge id="49" source="Alan_Turing" target="Mathematical_and_theoretical_biology" />
+      <edge id="50" source="Alan_Turing" target="James_Madison" />
+      <edge id="51" source="Alan_Turing" target="Colossus_computer" />
+      <edge id="52" source="Alan_Turing" target="Internet_activism" />
+      <edge id="53" source="Alan_Turing" target="County_Clare" />
+      <edge id="54" source="Alan_Turing" target="Chris_Grayling" />
+      <edge id="55" source="Alan_Turing" target="Martin_Rees,_Baron_Rees_of_Ludlow" />
+      <edge id="56" source="Alan_Turing" target="S._Barry_Cooper" />
+      <edge id="57" source="Alan_Turing" target="Plausible_deniability" />
+      <edge id="58" source="Alan_Turing" target="Asperger_syndrome" />
+      <edge id="59" source="Alan_Turing" target="Diethylstilbestrol" />
+      <edge id="60" source="Alan_Turing" target="National_Heritage_Memorial_Fund" />
+      <edge id="61" source="Alan_Turing" target="Legacy_Walk" />
+      <edge id="62" source="Alan_Turing" target="The_Lesbian_and_Gay_Foundation_in_Manchester" />
+      <edge id="63" source="Alan_Turing" target="English_Electric_DEUCE" />
+      <edge id="64" source="Alan_Turing" target="Time_100:_The_Most_Important_People_of_the_Century" />
+      <edge id="65" source="Alan_Turing" target="Victoria_University_of_Manchester" />
+      <edge id="66" source="Alan_Turing" target="Mind_(journal)" />
+      <edge id="67" source="Alan_Turing" target="Policing_and_Crime_Act_2017" />
+      <edge id="68" source="Alan_Turing" target="National_Physical_Laboratory,_UK" />
+      <edge id="69" source="Alan_Turing" target="Ban_(unit)" />
+      <edge id="70" source="Alan_Turing" target="Fibonacci_numbers" />
+      <edge id="71" source="Alan_Turing" target="William_Newman_(computer_scientist)" />
+      <edge id="72" source="Alan_Turing" target="Hormone" />
+      <edge id="73" source="Alan_Turing" target="Bombe" />
+      <edge id="74" source="Alan_Turing" target="ITA2" />
+      <edge id="75" source="Alan_Turing" target="County_Longford" />
+      <edge id="76" source="Alan_Turing" target="Plinth" />
+      <edge id="77" source="Alan_Turing" target="Battle_of_the_Atlantic" />
+      <edge id="78" source="Alan_Turing" target="List_of_Fellows_of_the_Royal_Society_elected_in_1951" />
+      <edge id="79" source="Alan_Turing" target="St_Leonards-on-Sea" />
+      <edge id="80" source="Alan_Turing" target="Order_of_the_British_Empire" />
+      <edge id="81" source="Alan_Turing" target="Alan_Turing_Year" />
+      <edge id="82" source="Alan_Turing" target="First_Draft_of_a_Report_on_the_EDVAC" />
+      <edge id="83" source="Alan_Turing" target="Inquests_in_England_and_Wales" />
+      <edge id="84" source="Alan_Turing" target="I.J._Good" />
+      <edge id="85" source="Alan_Turing" target="David_Cameron" />
+      <edge id="86" source="Alan_Turing" target="Blue_plaque" />
+      <edge id="87" source="Alan_Turing" target="Alan_Turing" />
+      <edge id="88" source="Alan_Turing" target="Stephen_Kettle" />
+      <edge id="89" source="Alan_Turing" target="Libido" />
+      <edge id="90" source="Alan_Turing" target="University_of_Surrey" />
+      <edge id="91" source="Alan_Turing" target="King%27s_College,_Cambridge" />
+      <edge id="92" source="Alan_Turing" target="Lorenz_cipher" />
+      <edge id="93" source="Alan_Turing" target="Time_(magazine)" />
+      <edge id="94" source="Alan_Turing" target="Jade_Esteban_Estrada" />
+      <edge id="95" source="Alan_Turing" target="Automatic_Computing_Engine" />
+      <edge id="96" source="Alan_Turing" target="Electroplating" />
+      <edge id="97" source="Alan_Turing" target="Mathematical_biology" />
+      <edge id="98" source="Alan_Turing" target="Ordinal_logic" />
+      <edge id="99" source="Alan_Turing" target="John_W._Mills" />
+      <edge id="100" source="Alan_Turing" target="Ludwig_Wittgenstein" />
+      <edge id="101" source="Alan_Turing" target="Morphogenesis" />
+      <edge id="102" source="Alan_Turing" target="List_of_presidents_of_the_Royal_Society" />
+      <edge id="103" source="Alan_Turing" target="Theory_of_computation" />
+      <edge id="104" source="Alan_Turing" target="LU_decomposition" />
+      <edge id="105" source="Alan_Turing" target="Sackville_Gardens" />
+      <edge id="106" source="Alan_Turing" target="Madurai" />
+      <edge id="107" source="Alan_Turing" target="Gross_indecency_(criminal_offence)" />
+      <edge id="108" source="Alan_Turing" target="Slate" />
+      <edge id="109" source="Alan_Turing" target="DNA" />
+      <edge id="110" source="Alan_Turing" target="Wilmslow" />
+      <edge id="111" source="Alan_Turing" target="1926_United_Kingdom_general_strike" />
+      <edge id="112" source="Alan_Turing" target="D._G._Champernowne" />
+      <edge id="113" source="Alan_Turing" target="Turingery" />
+      <edge id="114" source="Alan_Turing" target="Turing_Award" />
+      <edge id="115" source="Alan_Turing" target="Banburismus" />
+      <edge id="116" source="Alan_Turing" target="County_Tipperary" />
+      <edge id="117" source="Alan_Turing" target="Sherborne" />
+      <edge id="118" source="Alan_Turing" target="Government_Communications_Headquarters" />
+      <edge id="119" source="Alan_Turing" target="Heath_Robinson_(codebreaking_machine)" />
+      <edge id="120" source="Alan_Turing" target="Cyanide_poisoning" />
+      <edge id="121" source="Alan_Turing" target="English_Heritage" />
+      <edge id="122" source="Alan_Turing" target="The_Guardian" />
+      <edge id="123" source="Alan_Turing" target="Philippines" />
+      <edge id="124" source="Alan_Turing" target="Princeton_University" />
+      <edge id="125" source="Alan_Turing" target="Sidney_Frank" />
+      <edge id="126" source="Alan_Turing" target="Anglo-Irish" />
+      <edge id="127" source="Alan_Turing" target="Bomba_(cryptography)" />
+      <edge id="128" source="Alan_Turing" target="Heinz_Billing" />
+      <edge id="129" source="Alan_Turing" target="The_National_Archives_(United_Kingdom)" />
+      <edge id="130" source="Alan_Turing" target="Oestrogen" />
+      <edge id="131" source="Alan_Turing" target="Central_limit_theorem" />
+      <edge id="132" source="Alan_Turing" target="Chemical_reaction" />
+      <edge id="133" source="Alan_Turing" target="2012_Summer_Olympics_torch_relay" />
+      <edge id="134" source="Alan_Turing" target="Computer_Science" />
+      <edge id="135" source="Alan_Turing" target="SIGSALY" />
+      <edge id="136" source="Alan_Turing" target="Alan_Garner" />
+      <edge id="137" source="Alan_Turing" target="Manchester_Withington_(UK_Parliament_constituency)" />
+      <edge id="138" source="Alan_Turing" target="British_Society_for_the_History_of_Mathematics" />
+      <edge id="139" source="Alan_Turing" target="Wales" />
+      <edge id="140" source="Alan_Turing" target="Officer_of_the_Order_of_the_British_Empire" />
+      <edge id="141" source="Alan_Turing" target="Amstrad" />
+      <edge id="142" source="Alan_Turing" target="Walt_Disney" />
+      <edge id="143" source="Alan_Turing" target="Materialism" />
+      <edge id="144" source="Alan_Turing" target="Gentry" />
+      <edge id="145" source="Alan_Turing" target="Snow_White_and_the_Seven_Dwarfs_(1937_film)" />
+      <edge id="146" source="Alan_Turing" target="Stuart_Milner-Barry" />
+      <edge id="147" source="Alan_Turing" target="Ferranti_Mark_1" />
+      <edge id="148" source="Alan_Turing" target="Lorenz_SZ_40/42" />
+      <edge id="149" source="Alan_Turing" target="Woking_Crematorium" />
+      <edge id="150" source="Alan_Turing" target="Colonnade_Hotel_(London)" />
+      <edge id="151" source="Alan_Turing" target="Fellow_of_the_Royal_Society" />
+      <edge id="152" source="Alan_Turing" target="Partial_differential_equations" />
+      <edge id="153" source="Alan_Turing" target="Monopoly_(game)" />
+      <edge id="154" source="Alan_Turing" target="G%C3%B6ttingen" />
+      <edge id="155" source="Alan_Turing" target="Milton_Keynes" />
+      <edge id="156" source="Alan_Turing" target="Southampton" />
+      <edge id="157" source="Alan_Turing" target="Computer_scientist" />
+      <edge id="158" source="Alan_Turing" target="Salvatore_Adamo" />
+      <edge id="159" source="Alan_Turing" target="Belousov%E2%80%93Zhabotinsky_reaction" />
+      <edge id="160" source="Alan_Turing" target="Chhatrapur" />
+      <edge id="161" source="Alan_Turing" target="Hampton,_London" />
+      <edge id="162" source="Alan_Turing" target="Amnesty_law" />
+      <edge id="163" source="Alan_Turing" target="Post-mortem" />
+      <edge id="164" source="Alan_Turing" target="Hastings_Ismay,_1st_Baron_Ismay" />
+      <edge id="165" source="Alan_Turing" target="Netherlands" />
+      <edge id="166" source="Alan_Turing" target="Bovine_tuberculosis" />
+      <edge id="167" source="Alan_Turing" target="Von_Neumann" />
+      <edge id="168" source="Alan_Turing" target="Enigma_code" />
+      <edge id="169" source="Alan_Turing" target="Official_Secrets_Act" />
+      <edge id="170" source="Alan_Turing" target="Pardon" />
+      <edge id="171" source="Alan_Turing" target="Stephen_Fry" />
+      <edge id="172" source="Alan_Turing" target="Atheism" />
+      <edge id="173" source="Alan_Turing" target="Labouchere_Amendment" />
+      <edge id="174" source="Alan_Turing" target="George_VI" />
+      <edge id="175" source="Alan_Turing" target="Max_Planck_Institute_for_Physics" />
+      <edge id="176" source="Alan_Turing" target="General_purpose_computer" />
+      <edge id="177" source="Alan_Turing" target="Sackville_Park" />
+      <edge id="178" source="Alan_Turing" target="Max_Newman" />
+      <edge id="179" source="Alan_Turing" target="Alan_Turing_Memorial" />
+      <edge id="180" source="Alan_Turing" target="Madras_and_Southern_Mahratta_Railway" />
+      <edge id="181" source="Alan_Turing" target="Phyllotaxis" />
+      <edge id="182" source="Alan_Turing" target="Winston_Churchill" />
+      <edge id="183" source="Alan_Turing" target="Second_World_War" />
+      <edge id="184" source="Alan_Turing" target="Guildford" />
+      <edge id="185" source="Alan_Turing" target="Warsaw" />
+      <edge id="186" source="Alan_Turing" target="Chess" />
+      <edge id="187" source="Alan_Turing" target="Association_for_Computing_Machinery" />
+      <edge id="188" source="Alan_Turing" target="Alan_Turing_law" />
+      <edge id="189" source="Alan_Turing" target="Princeton_Alumni_Weekly" />
+      <edge id="190" source="Alan_Turing" target="United_States_Naval_Computing_Machine_Laboratory" />
+      <edge id="191" source="Alan_Turing" target="Royal_Mail" />
+      <edge id="192" source="Alan_Turing" target="Cipher" />
+      <edge id="193" source="Alan_Turing" target="Pilot_ACE" />
+      <edge id="194" source="Alan_Turing" target="Enigma_machine" />
+      <edge id="195" source="Alan_Turing" target="John_Graham-Cumming" />
+      <edge id="196" source="Alan_Turing" target="John_Leech_(politician)" />
+      <edge id="197" source="Alan_Turing" target="Conel_Hugh_O%27Donel_Alexander" />
+      <edge id="198" source="Alan_Turing" target="Jack_Copeland" />
+      <edge id="199" source="Alan_Turing" target="Computability_in_Europe" />
+      <edge id="200" source="Alan_Turing" target="Tommy_Flowers" />
+      <edge id="201" source="Alan_Turing" target="Manchester_computers" />
+      <edge id="202" source="Alan_Turing" target="Asa_Briggs" />
+      <edge id="203" source="Alan_Turing" target="Gynaecomastia" />
+      <edge id="204" source="Alan_Turing" target="Cryptanalysis_of_the_Enigma" />
+      <edge id="205" source="Alan_Turing" target="Manchester" />
+      <edge id="206" source="Alan_Turing" target="Astronomer_Royal" />
+      <edge id="207" source="Alan_Turing" target="Bengal_Army" />
+      <edge id="208" source="Alan_Turing" target="Saint_Vincent_and_the_Grenadines" />
+      <edge id="209" source="Alan_Turing" target="List_of_IEEE_milestones" />
+      <edge id="210" source="Alan_Turing" target="British_House_of_Lords" />
+      <edge id="211" source="Alan_Turing" target="Computing_Machinery_and_Intelligence" />
+      <edge id="212" source="Alan_Turing" target="Ioan_James" />
+      <edge id="213" source="Alan_Turing" target="Plaintext" />
+      <edge id="214" source="Alan_Turing" target="Stephen_Hawking" />
+      <edge id="215" source="Alan_Turing" target="Hanslope_Park" />
+      <edge id="216" source="Alan_Turing" target="John_Sharkey,_Baron_Sharkey" />
+      <edge id="217" source="Alan_Turing" target="Jarl_Waldemar_Lindeberg" />
+      <edge id="218" source="Alan_Turing" target="The_Daily_Telegraph" />
+      <edge id="219" source="Alan_Turing" target="Reader_(academic_rank)" />
+      <edge id="220" source="Alan_Turing" target="Cryptanalysis" />
+      <edge id="221" source="Alan_Turing" target="The_Chemical_Basis_of_Morphogenesis" />
+      <edge id="222" source="Alan_Turing" target="Elizabeth_II" />
+      <edge id="223" source="Alan_Turing" target="Newton%27s_laws_of_motion" />
+      <edge id="224" source="Alan_Turing" target="Winning_Moves" />
+      <edge id="225" source="Alan_Turing" target="Universal_Turing_machine" />
+      <edge id="226" source="Alan_Turing" target="British_Army" />
+      <edge id="227" source="Alan_Turing" target="Apple_Inc." />
+      <edge id="228" source="Alan_Turing" target="Turing_test" />
+      <edge id="229" source="Alan_Turing" target="Sherborne_School" />
+      <edge id="230" source="Alan_Turing" target="Abraham_Wald" />
+      <edge id="231" source="Alan_Turing" target="Chemical_clock" />
+      <edge id="232" source="Alan_Turing" target="Market_town" />
+      <edge id="233" source="Alan_Turing" target="David_Leavitt" />
+      <edge id="234" source="Alan_Turing" target="Decision_problem" />
+      <edge id="235" source="Alan_Turing" target="British_House_of_Commons" />
+      <edge id="236" source="Alan_Turing" target="Bletchley_Park" />
+      <edge id="237" source="Alan_Turing" target="Steve_Jobs" />
+      <edge id="238" source="Alan_Turing" target="Turing_baronets" />
+      <edge id="239" source="Alan_Turing" target="Andrew_Hodges" />
+      <edge id="240" source="Alan_Turing" target="Gordon_Welchman" />
+      <edge id="241" source="Alan_Turing" target="Criminal_Law_Amendment_Act_1885" />
+      <edge id="242" source="Alan_Turing" target="Rotor_machine" />
+      <edge id="243" source="Alan_Turing" target="Dilly_Knox" />
+      <edge id="244" source="Alan_Turing" target="Signals_intelligence" />
+      <edge id="245" source="Alan_Turing" target="CAPTCHA" />
+      <edge id="246" source="Alan_Turing" target="Jean_Barker,_Baroness_Trumpington" />
+      <edge id="247" source="Alan_Turing" target="Sequential_analysis" />
+      <edge id="248" source="Alan_Turing" target="Manchester_City_Council" />
+      <edge id="249" source="Alan_Turing" target="Royal_prerogative_of_mercy" />
+      <edge id="250" source="Alan_Turing" target="100_Greatest_Britons" />
+      <edge id="251" source="Alan_Turing" target="Ronald_Lewin" />
+      <edge id="252" source="Entscheidungsproblem" target="Alan_Turing" />
+      <edge id="253" source="Entscheidungsproblem" target="Computable_function" />
+      <edge id="254" source="Entscheidungsproblem" target="ex.php?title=Omega_test&amp;action=edit&amp;redlink=1" />
+      <edge id="255" source="Entscheidungsproblem" target="Stephen_Cole_Kleene" />
+      <edge id="256" source="Entscheidungsproblem" target="Algorithm" />
+      <edge id="257" source="Entscheidungsproblem" target="Computer_science" />
+      <edge id="258" source="Entscheidungsproblem" target="First-order_logic" />
+      <edge id="259" source="Entscheidungsproblem" target="Boolean_satisfiability_problem" />
+      <edge id="260" source="Entscheidungsproblem" target="Peano_axioms" />
+      <edge id="261" source="Entscheidungsproblem" target="Natural_number" />
+      <edge id="262" source="Entscheidungsproblem" target="Mathematics" />
+      <edge id="263" source="Entscheidungsproblem" target="German_language" />
+      <edge id="264" source="Entscheidungsproblem" target="Calculating_machine" />
+      <edge id="265" source="Entscheidungsproblem" target="G%C3%B6del%27s_completeness_theorem" />
+      <edge id="266" source="Entscheidungsproblem" target="Gottfried_Leibniz" />
+      <edge id="267" source="Entscheidungsproblem" target="Axiom" />
+      <edge id="268" source="Entscheidungsproblem" target="Yuri_Matiyasevich" />
+      <edge id="269" source="Entscheidungsproblem" target="Satisfiability_modulo_theories" />
+      <edge id="270" source="Entscheidungsproblem" target="G%C3%B6del_numbering" />
+      <edge id="271" source="Entscheidungsproblem" target="David_Hilbert" />
+      <edge id="272" source="Entscheidungsproblem" target="Real_closed_field" />
+      <edge id="273" source="Entscheidungsproblem" target="Turing_machine" />
+      <edge id="274" source="Entscheidungsproblem" target="DPLL_algorithm" />
+      <edge id="275" source="Entscheidungsproblem" target="ex.php?title=Cooper%27s_algorithm&amp;action=edit&amp;redlink=1" />
+      <edge id="276" source="Entscheidungsproblem" target="Kurt_G%C3%B6del" />
+      <edge id="277" source="Entscheidungsproblem" target="Tarski%E2%80%93Seidenberg_theorem" />
+      <edge id="278" source="Entscheidungsproblem" target="G%C3%B6del%27s_incompleteness_theorem" />
+      <edge id="279" source="Entscheidungsproblem" target="Church%E2%80%93Turing_thesis" />
+      <edge id="280" source="Entscheidungsproblem" target="Paul_Bernays" />
+      <edge id="281" source="Entscheidungsproblem" target="Wilhelm_Ackermann" />
+      <edge id="282" source="Entscheidungsproblem" target="Programming_language" />
+      <edge id="283" source="Entscheidungsproblem" target="Help:IPA_for_German" />
+      <edge id="284" source="Entscheidungsproblem" target="Diophantine_equation" />
+      <edge id="285" source="Entscheidungsproblem" target="Formal_language" />
+      <edge id="286" source="Entscheidungsproblem" target="Presburger_arithmetic" />
+      <edge id="287" source="Entscheidungsproblem" target="Moses_Sch%C3%B6nfinkel" />
+      <edge id="288" source="Entscheidungsproblem" target="Multiple_discovery" />
+      <edge id="289" source="Entscheidungsproblem" target="Lambda_calculus" />
+      <edge id="290" source="Entscheidungsproblem" target="William_Pugh" />
+      <edge id="291" source="Entscheidungsproblem" target="Model_of_computation" />
+      <edge id="292" source="Entscheidungsproblem" target="Truth_value" />
+      <edge id="293" source="Entscheidungsproblem" target="Entscheidungsproblem" />
+      <edge id="294" source="Entscheidungsproblem" target="Halting_problem" />
+      <edge id="295" source="Entscheidungsproblem" target="Hilbert%27s_tenth_problem" />
+      <edge id="296" source="Entscheidungsproblem" target="Cylindrical_algebraic_decomposition" />
+      <edge id="297" source="Entscheidungsproblem" target="Program_verification" />
+      <edge id="298" source="Entscheidungsproblem" target="Alonzo_Church" />
+      <edge id="299" source="Entscheidungsproblem" target="Simplex_algorithm" />
+      <edge id="300" source="Entscheidungsproblem" target="Effectively_calculable" />
+      <edge id="301" source="The_Hub_(TV_network)" target="My_Little_Pony:_Friendship_Is_Magic" />
+      <edge id="302" source="The_Hub_(TV_network)" target="The_Hub_(TV_network)" />
+      <edge id="303" source="The_Hub_(TV_network)" target="Family-friendliness" />
+      <edge id="304" source="My_Little_Pony:_Friendship_Is_Magic" target="My_Little_Pony:_Friendship_Is_Magic" />
+      <edge id="305" source="Monopoly_(game)" target="Bankruptcy" />
+      <edge id="306" source="Monopoly_(game)" target="Game_piece_(board_game)" />
+      <edge id="307" source="Monopoly_(game)" target="Central_Railroad_of_New_Jersey" />
+      <edge id="308" source="Monopoly_(game)" target="Pamela_Pettler" />
+      <edge id="309" source="Monopoly_(game)" target="Las_Vegas" />
+      <edge id="310" source="Monopoly_(game)" target="Marven_Gardens" />
+      <edge id="311" source="Monopoly_(game)" target="Lionsgate" />
+      <edge id="312" source="Monopoly_(game)" target="Emmett/Furla/Oasis_Films" />
+      <edge id="313" source="Monopoly_(game)" target="Deed" />
+      <edge id="314" source="Monopoly_(game)" target="Secret_Intelligence_Service" />
+      <edge id="315" source="Monopoly_(game)" target="Under_the_Boardwalk:_The_MONOPOLY_Story" />
+      <edge id="316" source="Monopoly_(game)" target="Mortgage_law" />
+      <edge id="317" source="Monopoly_(game)" target="Charm_bracelet" />
+      <edge id="318" source="Monopoly_(game)" target="International_Game_Technology" />
+      <edge id="319" source="Monopoly_(game)" target="Ralph_Anspach" />
+      <edge id="320" source="Monopoly_(game)" target="Parker_Brothers" />
+      <edge id="321" source="Monopoly_(game)" target="Monopoly:_The_Mega_Edition" />
+      <edge id="322" source="Monopoly_(game)" target="Luxury_Tax" />
+      <edge id="323" source="Monopoly_(game)" target="I%27ve_Been_Working_on_the_Railroad" />
+      <edge id="324" source="Monopoly_(game)" target="Debit_cards" />
+      <edge id="325" source="Monopoly_(game)" target="Universal_Pictures" />
+      <edge id="326" source="Monopoly_(game)" target="The_Co-operative_Bank" />
+      <edge id="327" source="Monopoly_(game)" target="Anti-Monopoly" />
+      <edge id="328" source="Monopoly_(game)" target="Monopoly_(game)" />
+      <edge id="329" source="Monopoly_(game)" target="Mike_%26_Molly" />
+      <edge id="330" source="Monopoly_(game)" target="Monopoly_Junior" />
+      <edge id="331" source="Monopoly_(game)" target="Super_Nintendo_Entertainment_System" />
+      <edge id="332" source="Monopoly_(game)" target="Train_depot" />
+      <edge id="333" source="Monopoly_(game)" target="Get_Out_of_Jail_Free_card" />
+      <edge id="334" source="Monopoly_(game)" target="O%27Hare_International_Airport" />
+      <edge id="335" source="Monopoly_(game)" target="United_States_Court_of_Appeals_for_the_9th_Circuit" />
+      <edge id="336" source="Monopoly_(game)" target="Los_Angeles_International_Airport" />
+      <edge id="337" source="Monopoly_(game)" target="Progressive_Field" />
+      <edge id="338" source="Monopoly_(game)" target="Texas_Stadium" />
+      <edge id="339" source="Monopoly_(game)" target="Game_Boy" />
+      <edge id="340" source="Monopoly_(game)" target="Guinness_Book_of_World_Records" />
+      <edge id="341" source="Monopoly_(game)" target="Diplomacy_(game)" />
+      <edge id="342" source="Monopoly_(game)" target="Atlantic_City,_New_Jersey" />
+      <edge id="343" source="Monopoly_(game)" target="Mr._Monopoly" />
+      <edge id="344" source="Monopoly_(game)" target="Itbox" />
+      <edge id="345" source="Monopoly_(game)" target="WMS_Gaming" />
+      <edge id="346" source="Monopoly_(game)" target="Todd_Newton" />
+      <edge id="347" source="Monopoly_(game)" target="The_Christian_Science_Monitor" />
+      <edge id="348" source="Monopoly_(game)" target="NATAS" />
+      <edge id="349" source="Monopoly_(game)" target="A1_road_(Great_Britain)" />
+      <edge id="350" source="Monopoly_(game)" target="The_Mayfair_Set" />
+      <edge id="351" source="Monopoly_(game)" target="Hasbro" />
+      <edge id="352" source="Monopoly_(game)" target="Advocacy_group" />
+      <edge id="353" source="Monopoly_(game)" target="Board_game" />
+      <edge id="354" source="Monopoly_(game)" target="Neiman_Marcus" />
+      <edge id="355" source="Monopoly_(game)" target="Slot_machine" />
+      <edge id="356" source="Monopoly_(game)" target="Briefcase" />
+      <edge id="357" source="Monopoly_(game)" target="Frank_Beddor" />
+      <edge id="358" source="Monopoly_(game)" target="Syndication_(television)" />
+      <edge id="359" source="Monopoly_(game)" target="Zachary_Levi" />
+      <edge id="360" source="Monopoly_(game)" target="Generic_trademark" />
+      <edge id="361" source="Monopoly_(game)" target="Public_domain" />
+      <edge id="362" source="Monopoly_(game)" target="Ghettopoly" />
+      <edge id="363" source="Monopoly_(game)" target="Reading_Company" />
+      <edge id="364" source="Monopoly_(game)" target="Coaching_inn" />
+      <edge id="365" source="Monopoly_(game)" target="ex.php?title=Anaheim_International_Film_Festival&amp;action=edit&amp;redlink=1" />
+      <edge id="366" source="Monopoly_(game)" target="Andrew_Niccol" />
+      <edge id="367" source="Monopoly_(game)" target="Bally%27s_Las_Vegas" />
+      <edge id="368" source="Monopoly_(game)" target="Billy_Gardell" />
+      <edge id="369" source="Monopoly_(game)" target="Rensselaer,_New_York" />
+      <edge id="370" source="Monopoly_(game)" target="Merv_Griffin" />
+      <edge id="371" source="Monopoly_(game)" target="Matthew_McNally" />
+      <edge id="372" source="Monopoly_(game)" target="Snake_eyes" />
+      <edge id="373" source="Monopoly_(game)" target="IPad" />
+      <edge id="374" source="Monopoly_(game)" target="Locomotive" />
+      <edge id="375" source="Monopoly_(game)" target="Sega_Genesis" />
+      <edge id="376" source="Monopoly_(game)" target="Chessex" />
+      <edge id="377" source="Monopoly_(game)" target="The_Hub_(TV_network)" />
+      <edge id="378" source="Monopoly_(game)" target="Renting" />
+      <edge id="379" source="Monopoly_(game)" target="Commodore_64" />
+      <edge id="380" source="Monopoly_(game)" target="Map" />
+      <edge id="381" source="Monopoly_(game)" target="Licensed_and_localized_editions_of_Monopoly" />
+      <edge id="382" source="Monopoly_(game)" target="Pennsylvania-Reading_Seashore_Lines" />
+      <edge id="383" source="Monopoly_(game)" target="Atlantic_City" />
+      <edge id="384" source="Monopoly_(game)" target="The_Angel,_Islington" />
+      <edge id="385" source="Monopoly_(game)" target="Pepco_Holdings" />
+      <edge id="386" source="Monopoly_(game)" target="Hungry_Hungry_Hippos" />
+      <edge id="387" source="Monopoly_(game)" target="ESPN360" />
+      <edge id="388" source="Monopoly_(game)" target="Rio_All_Suite_Hotel_and_Casino" />
+      <edge id="389" source="Monopoly_(game)" target="Brian_Goldner" />
+      <edge id="390" source="Monopoly_(game)" target="Mike_Reilly_(television_personality)" />
+      <edge id="391" source="Monopoly_(game)" target="Monopoly_Millionaires%27_Club_(TV_series)" />
+      <edge id="392" source="Monopoly_(game)" target="Gamesys" />
+      <edge id="393" source="Monopoly_(game)" target="Chance_and_Community_Chest_cards" />
+      <edge id="394" source="Monopoly_(game)" target="Playing_card" />
+      <edge id="395" source="Monopoly_(game)" target="Baltimore_and_Ohio_Railroad" />
+      <edge id="396" source="Monopoly_(game)" target="Elizabeth_Magie" />
+      <edge id="397" source="Monopoly_(game)" target="W_H_Smith" />
+      <edge id="398" source="Monopoly_(game)" target="Kevin_Tostado" />
+      <edge id="399" source="Monopoly_(game)" target="WagerWorks" />
+      <edge id="400" source="Monopoly_(game)" target="Wired_magazine" />
+      <edge id="401" source="Monopoly_(game)" target="Grossinger%27s_Resort" />
+      <edge id="402" source="Monopoly_(game)" target="FAO_Schwarz" />
+      <edge id="403" source="Monopoly_(game)" target="Hartsfield%E2%80%93Jackson_Atlanta_International_Airport" />
+      <edge id="404" source="Monopoly_(game)" target="Sorry!_(game)" />
+      <edge id="405" source="Monopoly_(game)" target="Charles_Darrow" />
+      <edge id="406" source="Monopoly_(game)" target="Nintendo_Entertainment_System" />
+      <edge id="407" source="Monopoly_(game)" target="Pewter" />
+      <edge id="408" source="Monopoly_(game)" target="Super_Jeopardy!" />
+      <edge id="409" source="Monopoly_(game)" target="Do_not_pass_Go._Do_not_collect_$200." />
+      <edge id="410" source="Monopoly_(game)" target="Shore_Fast_Line" />
+      <edge id="411" source="Monopoly_(game)" target="Conflict_(board_game)" />
+      <edge id="412" source="Monopoly_(game)" target="Georgism" />
+      <edge id="413" source="Monopoly_(game)" target="Family_Game_Night_(TV_series)" />
+      <edge id="414" source="Monopoly_(game)" target="The_Landlord%27s_Game" />
+      <edge id="415" source="Monopoly_(game)" target="Trademark_infringement" />
+      <edge id="416" source="Monopoly_(game)" target="Waddingtons" />
+      <edge id="417" source="Monopoly_(game)" target="Game_Boy_Advance" />
+      <edge id="418" source="Monopoly_(game)" target="House_rules" />
+      <edge id="419" source="Monopoly_(game)" target="BoardGameGeek" />
+      <edge id="420" source="Monopoly_(game)" target="Action_Man" />
+      <edge id="421" source="Monopoly_(game)" target="Income_Tax" />
+    </edges>
+  </graph>
+</gexf>
